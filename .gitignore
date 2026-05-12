@@ -10,3 +10,4 @@ test/data/enwl/measurements/temp.csv
 .vscode/
 *.dbl
 *.DSV
+*.pdf
